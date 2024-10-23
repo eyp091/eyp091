@@ -1,5 +1,5 @@
 # 💫 About Me:
-I’m student of Celal Bayar Universtiy.<br>I’m currently working on Deep Learning.<br>I’m currently working on car book project with ASP.NET Oninon Architecture.<br>I’m currently working on mobile programing with flutter.
+I’m student of Celal Bayar Universtiy.<br>I’m currently working on Deep Learning.<br>I’m currently working on eye detection project with deep learning algorithms.<br>I’m currently working on mobile programing with kotlin.
 
 
 ## 🌐 Socials:
