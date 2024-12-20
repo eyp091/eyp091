@@ -1,5 +1,5 @@
 # 💫 About Me:
-I’m student of Celal Bayar Universtiy.<br>I’m currently working on Deep Learning.<br>I’m currently working on eye detection project with deep learning algorithms.<br>I’m currently working on mobile programing with kotlin.
+I’m student of Celal Bayar Universtiy.<br>I’m currently working on Deep Learning.<br>I’m currently working on eye and yawn detection project with deep learning algorithms.<br>I’m currently working on mobile programing with kotlin. <br> I'm currently working on react, socket.io and nodejs <br>
 
 
 ## 🌐 Socials:
